@@ -1,0 +1,5 @@
+.idea
+venv
+__pycache__
+backend/__pycache__
+gooa/__pycache__
