@@ -1,1 +1,0 @@
-from gooa.wsgi import application
